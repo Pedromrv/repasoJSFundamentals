@@ -270,7 +270,7 @@ console.log(is_string([1, 2, 4, 0])); // false
 </details>
 
 
-### Ejercicio 5
+### Ejercicio 6
 
 Escribe una función de JavaScript que concatene un string dado n veces (por defecto es 1).
 
@@ -285,7 +285,7 @@ console.log(repeat('Ha!',3));
 // "Ha!Ha!Ha!"
 ```
 
-<details><summary>Respuesta - ¡Haz Click!</summary>+
+<details><summary>Respuesta - ¡Haz Click!</summary>
 
 ```js
 repeat = function repeat(str, count) {
